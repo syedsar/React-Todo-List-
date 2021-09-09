@@ -1,0 +1,21 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+.header {
+  height: 200px;
+  width: 100%;
+  padding-top: 50px;
+  background-color: rgb(173, 173, 165);
+}
+
+.task-container {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #f6f7f8;
+  padding: 40px 100px;
+}
